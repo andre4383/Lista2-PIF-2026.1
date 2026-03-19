@@ -1,6 +1,7 @@
 #include <stdio.h>
 //Aluno: André Guilherme Montenegro de Oliveira Santos
 // Aluno: Lucas Gabriel Cardoso Souza
+// Aluno: Afonso Henrique Martins de Araujo
 
 void lerDados(int *opcao, float *n1, float *n2) {
     printf("\nDigite a nota 1: ");

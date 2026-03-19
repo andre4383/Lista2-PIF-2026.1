@@ -2,6 +2,7 @@
 //Aluno: André Guilherme Montenegro de Oliveira Santos
 // Aluno: Lucas Gabriel Cardoso Souza
 // Aluno: Afonso Henrique Martins de Araujo
+// Aluno: José Williams Lopes de Pontes
 
 void lerDados(int *opcao, float *n1, float *n2) {
     printf("\nDigite a nota 1: ");
